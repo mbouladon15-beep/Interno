@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: 'jost', sans-serif;
+    font-family: 'Jost', sans-serif;
     line-height: 1.5;
     color: #4D5053;
 }
@@ -90,7 +90,7 @@ ul{
 }
 .mt-80{
     margin-top:80px;
-}w-
+}
 .w-25{
     width: 25%;
 }
@@ -122,7 +122,7 @@ ul{
     color:white;
 }
 .title-small{
-    font-family: 'jost',sans-serif;
+    font-family: 'Jost',sans-serif;
     font-size: 18px;
     font-weight: 700;
 }
@@ -145,11 +145,11 @@ ul{
 
 .btn{
     display:inline-block;
-  
     padding:14px 28px;
     background-color: #292F36;
     color:white;
-    border-radius: 6px;
+    border-radius: 10px;
+    align-self: flex-start;
 }
 
 
