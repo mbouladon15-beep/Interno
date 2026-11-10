@@ -154,7 +154,7 @@ ul{
 
 
 .hero{
-    background-image: url('assets/Banner.jpg');
+    background-image: url("assets/Banner.jpg");
     background-size: cover;
     background-position: center;
     min-height: 700px;
